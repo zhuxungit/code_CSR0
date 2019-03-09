@@ -1,0 +1,10 @@
+{
+    "name": "zhuxun/OSR",
+    "description": "巴乐兔编码规范",
+    "type": "library",
+    "autoload": {
+        "classmap": [
+            "Standards/OSR0/Sniffs/"
+        ]
+    }
+}
