@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ruleset name="Octopus Standard Ruleset 0">
+<ruleset name="Our Standard Ruleset 0">
 
-    <description>A octopus php code standard ruleset 0</description>
+    <description>A php code standard ruleset 0</description>
 
     <exclude-pattern>*/ipdb/*</exclude-pattern>
     <exclude-pattern>*/tpl_c/*</exclude-pattern>

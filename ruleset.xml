@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="Our Standard Ruleset">
+
+    <description>A php code standard ruleset</description>
+ 
+    <rule ref="./Standards/OSR0"/>
+ 
+</ruleset>
